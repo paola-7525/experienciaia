@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Experiencia con la IA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        p {
+            line-height: 1.6;
+        }
+        /* Puedes agregar más estilos según tu gusto */
+    </style>
+</head>
+<body>
+    <h1>Mi Experiencia con la Inteligencia Artificial</h1>
+
+    <section>
+        <h2>Descripción de mi experiencia</h2>
+        <p>
+            Aquí puedes contar cómo has aprendido sobre la IA, qué te motivó a interesarte en ella, y qué aspectos te han resultado más interesantes o desafiantes durante el curso. Puedes hablar sobre tus expectativas, lo que has aprendido y cómo piensas aplicar estos conocimientos en el futuro.
+        </p>
+    </section>
+
+    <section>
+        <h2>Respuestas a las preguntas</h2>
+        <h3>¿Qué cosas te parecen sorprendentes de las posibilidades de la IA?</h3>
+        <p>
+            Aquí puedes escribir qué te ha impresionado más, como la capacidad de la IA para aprender, crear, resolver problemas complejos, o interactuar de manera natural con las personas.
+        </p>
+
+        <h3>¿Qué cosas te preocupan y qué sugerencias darías para un mejor futuro?</h3>
+        <p>
+            Expresa tus inquietudes, como el uso ético de la IA, la privacidad, o el impacto en el empleo. También puedes ofrecer ideas o recomendaciones para que el desarrollo de la IA sea beneficioso para todos.
+        </p>
+
+        <h3>¿Cuáles son tus principales retos personales en tu aprendizaje y adaptación a este nuevo mundo de la IA?</h3>
+        <p>
+            Comparte tus dificultades, como entender conceptos técnicos, mantenerse actualizado, o aplicar lo aprendido en la práctica. También puedes mencionar cómo planeas superar estos retos.
+        </p>
+    </section>
+</body>
+</html>
